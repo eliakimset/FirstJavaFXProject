@@ -17,6 +17,12 @@ After entering the points for each milestone, users can click the "Calculate" bu
 - Milestone 2: 40% of the total grade
 - Terminal Assessment: 30% of the total grade
 
+![image](https://github.com/eliakimset/FirstJavaFXProject/assets/153243302/5810b8ce-c231-436c-91f2-4bea1943aae5)
+
+
 ## Error Handling
+
+![image](https://github.com/eliakimset/FirstJavaFXProject/assets/153243302/8976f534-3105-4a13-8e55-5c181f00923a)
+
 
 If the entered points exceed the maximum allowed for any milestone, an error message will be displayed.
