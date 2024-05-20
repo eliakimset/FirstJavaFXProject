@@ -1,6 +1,7 @@
 # Practice #3: GUI Practice - Milestone Calculator
 
-![Screenshot 2024-05-21 at 12 48 53 AM](https://github.com/eliakimset/FirstJavaFXProject/assets/153243302/e1c40b59-6b0c-4e9c-b691-0e02afa03c64)
+![image](https://github.com/eliakimset/FirstJavaFXProject/assets/153243302/d7fae683-31d2-4b56-bcb8-5a7d312f23e4)
+
 
 ## Description
 
